@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 project.properties
 *.properties
+**src/main/resources/META-INF/
 
 ### STS ###
 .apt_generated
